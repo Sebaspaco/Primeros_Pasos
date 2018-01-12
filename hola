@@ -1,0 +1,7 @@
+let perro = {
+   name: "Jorge",
+   age: 10,
+   EsPerro: true,
+   novias: ["larysa","amanda","wanda","loaha"]
+   }
+
